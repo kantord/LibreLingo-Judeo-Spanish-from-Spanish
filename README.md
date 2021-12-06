@@ -20,7 +20,7 @@ yo so            - yo soy
 tu sos           - tú eres
 el es            - él es
 ella es          - ella es
-mozotros somos   - nosotrol somos
+mozotros somos   - nosotros somos
 mozotras somos
 vozotros sos
 eyos son         - ellos son
